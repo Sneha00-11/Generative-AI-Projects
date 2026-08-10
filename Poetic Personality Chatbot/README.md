@@ -1,1 +1,40 @@
+# Poetic Personality Chatbot
+
+## Overview
+
+This project develops an interactive chatbot that transforms user messages into short, original poems using Google's Gemini model and prompt engineering.
+
+## Objective
+
+* Convert everyday messages into poetic responses
+* Create a consistent poetic personality
+* Provide an interactive typing animation
+
+## Work Done
+
+* Integrated the Gemini API using `google-genai`
+* Designed a structured poetic prompt
+* Added few-shot examples and emotional tone matching
+* Implemented a line-by-line typing effect
+* Added an offline fallback for API failures
+
+## Tools & Technologies
+
+* Python
+* Google Gemini
+* Google Gen AI SDK
+* Google Colab
+* Prompt Engineering
+
+## Key Insights
+
+* Prompt design strongly influences an LLM's personality and output
+* Few-shot examples help maintain a consistent writing style
+* Emotional instructions improve responses to sensitive messages
+
+## Learning Outcome
+
+* Gained practical experience with LLM APIs
+* Learned prompt engineering techniques
+* Understood how prompts can shape AI creativity and personality
 
